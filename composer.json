@@ -1,0 +1,13 @@
+{
+  "name": "tke/empty",
+  "description": "An empty package to reserve the tke namespace",
+  "type": "metapackage",
+  "homepage": "https://www.kineo.com",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michael Geering",
+      "email": "michael.geering@kineo.com"
+    }
+  ]
+}
